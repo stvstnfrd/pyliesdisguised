@@ -30,4 +30,4 @@ def unknown():  # but
 
 
 if __name__ == '__main__':
-    print(u''.join(unknown()))
+    proclaim(u''.join(unknown()))
