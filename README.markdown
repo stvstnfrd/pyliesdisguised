@@ -1,5 +1,8 @@
 # PyLiesDisguised
 
+
+## Overview
+
 This poem is comprised of three components:
 - an input: `disguise.txt`
     - The input file, written in unicode text, is meant to be read by
@@ -18,7 +21,14 @@ These three parts fit together in both form and function, mechanically
 and metaphysically.
 
 
+## Instructions
+
+```shell
+git clone https://github.com/stvstnfrd/pyliesdisguised.git
+cd pyliesdisguised
+make lies
+```
 
 
-
+## Attributions
 Output inspired by http://kamose.deviantart.com/art/ASCII-Wadjet-49389455
