@@ -25,6 +25,7 @@ def unknown():  # but
                     yield compromise
                 elif truth is None:
                     yield 'despair'
+            # but
             if all(else_fails):
                 yield hope
 
