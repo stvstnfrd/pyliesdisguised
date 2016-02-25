@@ -25,9 +25,10 @@ def unknown():  # but
                     yield compromise
                 elif truth is None:
                     yield 'despair'
+            # but
             if all(else_fails):
                 yield hope
 
 
 if __name__ == '__main__':
-    print(u''.join(unknown()))
+    proclaim(u''.join(unknown()))
